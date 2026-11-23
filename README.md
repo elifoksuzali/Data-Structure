@@ -125,13 +125,3 @@ gcc circular_linked_list.c -o circular
 > birlikte tek seferde derlemek yerine ilgili klasörde ayrı ayrı derleyin.
 
 ---
-
-## 🧹 Düzenleme Notu
-
-GitHub'a uygun hale getirmek için:
-- Uzantısız kaynak dosyalara doğru uzantılar verildi (`.java` / `.c`).
-- Dosyalar konu başlıklarına göre klasörlere ayrıldı.
-- IDE çöpü (`.metadata/`, Eclipse/NetBeans ayarları), derleme çıktıları (`bin/`, `*.class`)
-  ve arşivler (`Data.rar`, `*.zip`) hariç tutuldu; `.gitignore` eklendi.
-- Rapor dosyalarının adlarından öğrenci numaraları çıkarıldı.
-- Kaynak kodda API anahtarı / parola gibi gizli bilgi **bulunmamıştır**.
