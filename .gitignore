@@ -1,0 +1,23 @@
+# Java derleme çıktıları
+*.class
+/bin/
+/out/
+/build/
+
+# IDE (Eclipse / NetBeans / IntelliJ)
+.metadata/
+.classpath
+.project
+.settings/
+nbproject/private/
+*.iml
+.idea/
+.vscode/
+
+# Arşivler (kaynak değil)
+*.rar
+*.zip
+
+# İşletim sistemi
+Thumbs.db
+.DS_Store
